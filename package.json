@@ -1,7 +1,7 @@
 {
-  "name": "Liri-Node-App",
+  "name": "liri-node-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Takes command line arguments and calls APIs with them.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/trodge/Liri-Node-App.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Thomas Rodgers",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/trodge/Liri-Node-App/issues"
@@ -22,5 +22,6 @@
     "dotenv": "^8.0.0",
     "moment": "^2.24.0",
     "node-spotify-api": "^1.1.1"
-  }
+  },
+  "devDependencies": {}
 }

@@ -1,6 +1,6 @@
 <h1>Liri Bot</h1>
 **Usage**
-concert-this '<artist>'
+concert-this '\<artist\>'
 Print a list of concert venues where <artist> will be performing with dates.
 
 movie-this '<movie>'

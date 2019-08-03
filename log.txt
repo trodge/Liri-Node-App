@@ -1,3 +1,11 @@
+concert-this,Imagine Dragons
+concert-this,Imagine Dragons
+Name of venue: Pro Football Hall of Fame
+Date of event: 08/04/19
+Name of venue: Formula 1 US Grand Prix
+Location: Canton, OH
+Location: Austin, TX
+Date of event: 11/01/19
 do-what-it-says
 spotify-this-song,"I Want it That Way"
 
@@ -8,20 +16,73 @@ Album name: The Hits--Chapter One
 movie-this,The Wind Rises
 Title: The Wind Rises
 Year: 2013
-Country: Japan
 Language: Japanese, German, Italian, French
+Actors: Hideaki Anno, Hidetoshi Nishijima, Miori Takimoto, Masahiko Nishimura
+Country: Japan
 Plot: A look at the life of Jiro Horikoshi, the man who designed Japanese fighter planes during World War II.
 Rotten Tomatoes Rating: 88%
 Internet Movie Database Rating: 7.8/10
-Actors: Hideaki Anno, Hidetoshi Nishijima, Miori Takimoto, Masahiko Nishimura
 Metacritic Rating: 83/100
-movie-this,A Scanner Darkly
-Title: A Scanner Darkly
-Language: English
-Country: USA
-Plot: An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.
-Year: 2006
-Actors: Rory Cochrane, Robert Downey Jr., Mitch Baker, Keanu Reeves
-Rotten Tomatoes Rating: 67%
-Internet Movie Database Rating: 7.1/10
-Metacritic Rating: 73/100
+spotify-this-song,You Need to Calm Down
+Artists: Taylor Swift
+Name: You Need To Calm Down
+Preview link: https://open.spotify.com/track/29fRTIKsJhLUJoldM89GZS
+Album name: You Need To Calm Down
+concert-this,Imagine Dragons
+Name of venue: Pro Football Hall of Fame
+Name of venue: Formula 1 US Grand Prix
+Date of event: 08/04/19
+Location: Canton, OH
+Location: Austin, TX
+Date of event: 11/01/19
+spotify-this-song,You Need to Calm Down
+Artists: Taylor Swift
+Name: You Need To Calm Down
+Preview link: https://open.spotify.com/track/29fRTIKsJhLUJoldM89GZS
+Album name: You Need To Calm Down
+movie-this,The Wind Rises
+Title: The Wind Rises
+Language: Japanese, German, Italian, French
+Plot: A look at the life of Jiro Horikoshi, the man who designed Japanese fighter planes during World War II.
+Actors: Hideaki Anno, Hidetoshi Nishijima, Miori Takimoto, Masahiko Nishimura
+Year: 2013
+Country: Japan
+Internet Movie Database Rating: 7.8/10
+Rotten Tomatoes Rating: 88%
+Metacritic Rating: 83/100
+do-what-it-says
+spotify-this-song,"I Want it That Way"
+
+Artists: Backstreet Boys
+Name: I Want It That Way
+Preview link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album name: The Hits--Chapter One
+concert-this,Imagine Dragons
+Name of venue: Pro Football Hall of Fame
+Location: Canton, OH
+Date of event: 08/04/19
+Location: Austin, TX
+Name of venue: Formula 1 US Grand Prix
+Date of event: 11/01/19
+spotify-this-song,You Need to Calm Down
+Artists: Taylor Swift
+Name: You Need To Calm Down
+Album name: You Need To Calm Down
+Preview link: https://open.spotify.com/track/29fRTIKsJhLUJoldM89GZS
+movie-this,The Wind Rises
+Title: The Wind Rises
+Year: 2013
+Country: Japan
+Language: Japanese, German, Italian, French
+Plot: A look at the life of Jiro Horikoshi, the man who designed Japanese fighter planes during World War II.
+Actors: Hideaki Anno, Hidetoshi Nishijima, Miori Takimoto, Masahiko Nishimura
+Internet Movie Database Rating: 7.8/10
+Rotten Tomatoes Rating: 88%
+Metacritic Rating: 83/100
+do-what-it-says
+spotify-this-song,"I Want it That Way"
+
+Artists: Backstreet Boys
+Preview link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album name: The Hits--Chapter One
+Name: I Want It That Way

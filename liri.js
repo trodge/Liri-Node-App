@@ -8,8 +8,9 @@ const fs = require('fs');
 
 let liri = {
     'concert-this': function (artist) {
-        axios.get('https://rest.bandsintown.com/artists/' + artist + '/events?app_id=codingbootcamp')
+        axios.get('https://rest.bandsintown.com/artists/' + artist.replace(/ /g, '%20') + '/events?app_id=codingbootcamp')
             .then(response => {
+                if (!response.data.length) console.log('no concerts found');
                 for (let i = 0; i < response.data.length; ++i) {
                     let data = response.data[i];
                     let venue = data.venue;
@@ -64,6 +65,10 @@ let liri = {
             command = str.slice(0, commaIndex);
             param = str.slice(commaIndex + 1);
         } else command = str;
+        if (Object.keys(this).indexOf(command) === -1) {
+            console.log('no command called ' + command);
+            return;
+        }
         this.write(str);
         this[command](param);
     },
